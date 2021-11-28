@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:notesy/controller.dart';
+import 'package:notesy/getx_controller/controller.dart';
 import 'package:notesy/screens/first_screen.dart';
 
 import 'package:notesy/screens/new_note.dart';

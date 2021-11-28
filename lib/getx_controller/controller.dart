@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:notesy/database/data_base_helper.dart';
 
-import 'models/notes.dart';
+import '../models/notes.dart';
 
 class MyController extends GetxController{
   DataBaseHelper _baseHelper=DataBaseHelper();

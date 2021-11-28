@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:notesy/controller.dart';
+import 'package:notesy/getx_controller/controller.dart';
 
 import 'package:notesy/models/notes.dart';
 

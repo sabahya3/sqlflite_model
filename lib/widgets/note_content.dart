@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../controller.dart';
+import '../getx_controller/controller.dart';
 
 class NoteContent extends StatelessWidget {
   const NoteContent();
