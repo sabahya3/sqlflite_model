@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../controller.dart';
-import '../note_content.dart';
+import '../widgets/note_content.dart';
 import 'new_note.dart';
 
 class FirstScreen extends StatefulWidget {

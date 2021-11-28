@@ -7,7 +7,7 @@ import 'package:notesy/controller.dart';
 import 'package:notesy/screens/first_screen.dart';
 
 import 'package:notesy/screens/new_note.dart';
-import 'package:notesy/note_content.dart';
+import 'package:notesy/widgets/note_content.dart';
 
 void main()async {
 WidgetsFlutterBinding.ensureInitialized();
